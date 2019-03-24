@@ -1,0 +1,26 @@
+var _0x4f62 = [
+    'FhxUT',
+    'btlxw'
+];
+(function (_0x30ac87, _0x346513) {
+    var _0x2f9996 = function (_0x360049) {
+        while (--_0x360049) {
+            _0x30ac87['push'](_0x30ac87['shift']());
+        }
+    };
+    _0x2f9996(++_0x346513);
+}(_0x4f62, 0x18f));
+var _0x11b1 = function (_0x11e762, _0x3fac47) {
+    _0x11e762 = _0x11e762 - 0x0;
+    var _0x58af7a = _0x4f62[_0x11e762];
+    return _0x58af7a;
+};
+(function () {
+    var _0x178c8d = {
+        'btlxw': function (_0x110a9e, _0x35231c) {
+            return _0x110a9e(_0x35231c);
+        },
+        'FhxUT': 'hit'
+    };
+    _0x178c8d[_0x11b1('0x0')](alert, _0x178c8d[_0x11b1('0x1')]);
+}());
